@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. beef steak
 5. Fied Chicken
 6. Ramen
+7. Lemon Sorbet
