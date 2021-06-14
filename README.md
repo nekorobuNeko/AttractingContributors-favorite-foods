@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. meet
 4. beef steak
 5. Fied Chicken
+6. Ramen
