@@ -30,4 +30,5 @@ Goal - I want contributors to help me list some favorite Video Game Characters.
 1. Louie
 1. 2B
 1. Pikachu
+1. Tifa
 1. Lady Dimitrescu
