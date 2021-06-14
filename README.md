@@ -42,4 +42,5 @@ Goal - I want to know your favorite Animes.
 16. Jujutsu Kaisen
 17. Chihayafuru
 18. Detective Conan
-19. one piece
+19. Koe no katachi
+20. one piece
