@@ -15,9 +15,22 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Anime.
-1. Naruto
-2. One Piece
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Hobby
+
+
+
+1. Sushi
+2. beef steak
+3. meet
+4. beef steak
+5. Fied Chicken
+6. Ramen
+7. Chahan
+8. Lemon Sorbet
+9. deep-fried eggplant
+10. Gai Yaang
