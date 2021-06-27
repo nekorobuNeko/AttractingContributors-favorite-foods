@@ -39,3 +39,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Vi
 - Sublime Text
 - Spyder IDE
+- Vim
