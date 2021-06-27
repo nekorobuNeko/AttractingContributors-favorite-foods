@@ -38,3 +38,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Atom
 - Vi
 - Sublime Text
+- Spyder IDE
